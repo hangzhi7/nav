@@ -4,11 +4,19 @@
   <url>
     <loc>https://nav.mzfqy.site/about/</loc>
     <lastmod>2023-12-06T19:27:08+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url><url>
     <loc>https://nav.mzfqy.site/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url><url>
     <loc>https://nav.mzfqy.site/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url><url>
     <loc>https://nav.mzfqy.site/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
